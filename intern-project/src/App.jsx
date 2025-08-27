@@ -7,7 +7,7 @@ import Home from './Component/Home';
 function App() {
   return (
     <>
-      <BrowserRouter basename="/inxcode">
+      <BrowserRouter basename="/Demo">
         <Routes>
           
           <Route path="/" element={<Home />} />
