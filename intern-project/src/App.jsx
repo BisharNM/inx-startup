@@ -7,7 +7,7 @@ import Home from './Component/Home';
 function App() {
   return (
     <>
-      <BrowserRouter basename="/GODWIT-HOLIDAYS">
+      <BrowserRouter basename="/inxcode">
         <Routes>
           
           <Route path="/" element={<Home />} />
